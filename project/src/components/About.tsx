@@ -9,7 +9,7 @@ const About = () => {
         <div className="relative px-6 pb-6">
           <div className="flex flex-col md:flex-row">
             <img
-              src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?auto=format&fit=crop&w=200&h=200"
+              src="https://github.com/krishnaverma05/Portfolio/blob/main/image.jpeg"
               alt="Profile"
               className="w-32 h-32 rounded-full border-4 border-white shadow-lg -mt-16"
             />
