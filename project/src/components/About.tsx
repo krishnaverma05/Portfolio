@@ -1,7 +1,7 @@
 import React from 'react';
 import img from "../../image.jpeg";
 
-import { Mail, Phone, Linkedin, MapPin } from 'lucide-react';
+import { Mail, Linkedin, MapPin } from 'lucide-react';
 
 const About = () => {
   return (
@@ -22,10 +22,6 @@ const About = () => {
                 <a href="mailto:krishnaverma1205@gmail.com" className="flex items-center text-gray-600 hover:text-gray-900">
                   <Mail className="w-4 h-4 mr-2" />
                   krishnaverma1205@gmail.com
-                </a>
-                <a href="tel:+916284685425" className="flex items-center text-gray-600 hover:text-gray-900">
-                  <Phone className="w-4 h-4 mr-2" />
-                  +91 6284685425
                 </a>
                 <a href="https://linkedin.com/in/krishna-verma05" className="flex items-center text-gray-600 hover:text-gray-900">
                   <Linkedin className="w-4 h-4 mr-2" />
