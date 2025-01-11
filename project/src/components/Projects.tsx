@@ -1,5 +1,4 @@
 import React from 'react';
-import { Github, ExternalLink } from 'lucide-react';
 
 const Projects = () => {
   const projects = [
@@ -53,17 +52,6 @@ const Projects = () => {
                     {tech}
                   </span>
                 ))}
-              </div>
-
-              <div className="flex space-x-4">
-                <a href="#" className="flex items-center text-gray-600 hover:text-gray-900">
-                  <Github className="w-4 h-4 mr-2" />
-                  Code
-                </a>
-                <a href="#" className="flex items-center text-gray-600 hover:text-gray-900">
-                  <ExternalLink className="w-4 h-4 mr-2" />
-                  Live Demo
-                </a>
               </div>
             </div>
           </div>
