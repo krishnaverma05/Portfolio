@@ -29,14 +29,14 @@ const About = () => {
                 </a>
                 <span className="flex items-center text-gray-600">
                   <MapPin className="w-4 h-4 mr-2" />
-                  Patiala, India
+                  Amritsar, India
                 </span>
               </div>
             </div>
           </div>
           <div className="mt-6">
             <p className="text-gray-700 leading-relaxed">
-              Passionate Computer Science Engineering student at Thapar Institute of Engineering and Technology with strong foundation in software development, algorithms, and system design. Experienced in building web applications and automated systems, with a focus on creating efficient and user-friendly solutions.
+              Passionate Computer Science Engineering student at Thapar Institute of Engineering and Technology with a strong foundation in software development, algorithms, and system design. Experienced in building web applications and automated systems, focusing on creating efficient and user-friendly solutions and a very keen interest in cyber security.
             </p>
           </div>
         </div>
